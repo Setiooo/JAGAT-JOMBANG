@@ -1,4 +1,4 @@
-# JagatJombang — Web Project
+# JagatJombang  Web Project
 
 Prototipe aplikasi mobile **JagatJombang** (Inisiatif Inkubator Digital Mahasiswa): marketplace, wisata budaya, & sastra Jombang dalam satu genggaman.
 
